@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Creating a new version of myself
 - 💞️ I’m looking to collaborate on front end developer
 - 📫 How to reach me @programmer105
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I am very interested in teamwork.
 
 <!---
 parsabarnamenevis/parsabarnamenevis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
